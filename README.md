@@ -1,5 +1,4 @@
-# onepager
-Onepager voor Medialab 2
+# Onepager Medialab 2
 
 Installeren van dit project:
 
